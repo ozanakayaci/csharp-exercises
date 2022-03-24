@@ -1,0 +1,13 @@
+E:\Kod\.net\pratikler\1\bin\Debug\netcoreapp2.1\1.deps.json
+E:\Kod\.net\pratikler\1\bin\Debug\netcoreapp2.1\1.runtimeconfig.json
+E:\Kod\.net\pratikler\1\bin\Debug\netcoreapp2.1\1.runtimeconfig.dev.json
+E:\Kod\.net\pratikler\1\bin\Debug\netcoreapp2.1\1.dll
+E:\Kod\.net\pratikler\1\bin\Debug\netcoreapp2.1\1.pdb
+E:\Kod\.net\pratikler\1\obj\Debug\netcoreapp2.1\1.csproj.AssemblyReference.cache
+E:\Kod\.net\pratikler\1\obj\Debug\netcoreapp2.1\1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kod\.net\pratikler\1\obj\Debug\netcoreapp2.1\1.AssemblyInfoInputs.cache
+E:\Kod\.net\pratikler\1\obj\Debug\netcoreapp2.1\1.AssemblyInfo.cs
+E:\Kod\.net\pratikler\1\obj\Debug\netcoreapp2.1\1.csproj.CoreCompileInputs.cache
+E:\Kod\.net\pratikler\1\obj\Debug\netcoreapp2.1\1.dll
+E:\Kod\.net\pratikler\1\obj\Debug\netcoreapp2.1\1.pdb
+E:\Kod\.net\pratikler\1\obj\Debug\netcoreapp2.1\1.genruntimeconfig.cache
